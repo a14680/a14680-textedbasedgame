@@ -1,0 +1,32 @@
+introdução = input("Deseja jogar este jogo? (sim/não):")
+nome = input("Insira aqui o seu nickname:")
+if introdução.lower() == "sim":
+ print("\n==================BEM VINDO A FLORESTA OBSCURA========================")
+ print(f"\nOlá {nome} bem vindo a floresta obscura. Neste jogo vais ter varias opções que têm a sua historia, mas o objetivo final é sair da floresta.")
+#-------------------------------------------------------------------------------------------
+#O Começo
+vida = 100
+
+inventario = []
+comida = "comida"
+lanterna = "lanterna"
+faca = "faca"
+
+def adicionar_item(item):
+  inventario.append(item)
+  print(f"{item} foi adicionado ao seu inventario")
+
+def remover_item(item):
+  if item in inventario:
+   inventario.remove(item)
+  print(f"{item} foi removido do seu inventario")
+#-------------------------------------------------------------------------------------------
+
+def direita():
+  print("Que barulhos estranhos..")
+def meio():
+  print("Pareece me uma boa ideia")
+def esquerda():
+  print("um lago com flores")
+
+  
