@@ -1,6 +1,8 @@
 <h1>TextBasedGame</h1>
-<h1> História
-Era uma vez um jovem que estava a viver uma vida normal e decidiu ir dar um passeio pela floresta, ao entrar na floresta tinha um sinal a dizer para não entar. Mas o nosso jovem era muito curioso então ele decidiu entrar, ao entrar na floresta ele não achou nada de especial.Passado um tempo ja focou de noite e como ja era previso o jovem perdeu se, tal como ja era noite ele decidiu dormir e no dia seguinte continuar achar a saida
+</h1> FLORESTA OBSUCA</h1>
+
+</p> História
+Era uma vez um jovem que estava a viver uma vida normal e decidiu ir dar um passeio pela floresta, ao entrar na floresta tinha um sinal a dizer para não entar. Mas o nosso jovem era muito curioso então ele decidiu entrar, ao entrar na floresta ele não achou nada de especial.Passado um tempo ja focou de noite e como ja era previso o jovem perdeu se, tal como ja era noite ele decidiu dormir e no dia seguinte continuar achar a saida</p>
 
 Objetivos
 O objetivo do jogo é encontrar o mapa que mostra a saida da floresta obscura.
